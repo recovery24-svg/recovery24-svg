@@ -1,4 +1,4 @@
-<h1 align="center">Hay 👋, I'm Mark</h1>
+<h1 align="center">Hay 👋, I'm Mark </h1>
 <h3 align="center">Passionate Digital Marketer | Full-Stack Developer | Web3 Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mark&label=Profile%20views&color=0e75b6&style=flat" alt="Mark" /> </p>
